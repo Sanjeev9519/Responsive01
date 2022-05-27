@@ -107,7 +107,7 @@ box-sizing: border-box;
 /* ========header and footer ends here============== */
 /* ====================================main========== */
 #poster{
-    background-image: url(../img/bg1.jpg) ;
+    background-image: url(img/bg1.jpg) ;
     height: 500px;
     background-position: center;
     background-size:cover ;
